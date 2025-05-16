@@ -33,7 +33,7 @@ After running the script, a file named `harga_beras_premium.csv` will be created
 | Date       | Commodity      | Province             | Price     |
 |------------|----------------|----------------------|-----------|
 | 01/01/2022 | Premium Rice   | Central Java         | 12450.0   |
-| 01/01/2022 | DKI Jakarta    | NaN                  | NaN       |
+| 01/01/2022 |                | NaN                  | NaN       |
 | ...        | ...            | ...                  | ...       |
 
 Note: `Price` will be `NaN` if no data is available for that date.
